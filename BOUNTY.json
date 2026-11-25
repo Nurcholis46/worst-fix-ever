@@ -1,0 +1,10 @@
+{
+  "slug": "u-deysumbrella-worst-fix-ever-funniest-commit-message-3f1d9722",
+  "title": "Worst Fix Ever: Funniest Commit Message",
+  "potUsd": "2.00",
+  "deadline": "2026-11-25T13:45:00.000Z",
+  "repo": "Nurcholis46/worst-fix-ever",
+  "gate": "1-100",
+  "entry": "fix: infinite loop by adding a second loop to watch the first",
+  "chars": 61
+}
